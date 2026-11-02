@@ -1,0 +1,4 @@
+WITCH ARA — MOONLIT HUNT v2.2.0 CINEMATIC
+Build: 2026-11-02
+Base: Witch Ara HD v2.0 (2026-11-02)
+Distribution: GitHub Pages ready, static, offline PWA, WebP images, no CDN, no telemetry.
